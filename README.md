@@ -1,2 +1,2 @@
 # Ruby-Tutorials
-Ruby tutorials and food finder appp
+Ruby tutorials and food finder app
